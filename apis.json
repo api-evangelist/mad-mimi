@@ -1,0 +1,69 @@
+{
+    "name": "Mad Mimi",
+    "description": "Mad Mimi makes it simple to send HTML email newsletters, grow your subscribers and manage your email list. Sign up for a free email marketing account today!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/434-mad-mimi.jpg",
+    "tags": [
+        "api provider",
+        "email marketing",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mad-mimi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mad Mimi",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/434-mad-mimi.jpg",
+            "humanURL": "https:\/\/madmimi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mad-mimi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.madmimi.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.madmimi.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.madmimi.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mad-mimi"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mad-mimi"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/madmimi.com\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "support@madmimi.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/madmimi"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/madmimi.com"
+        }
+    ]
+}
